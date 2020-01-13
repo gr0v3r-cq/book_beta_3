@@ -1,0 +1,10 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Applications/flutter/flutter_1.3.8
+FLUTTER_APPLICATION_PATH=/Users/gr0v3r/Downloads/flutter-ui-concepts/pixel
+FLUTTER_TARGET=/Users/gr0v3r/Downloads/flutter-ui-concepts/pixel/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Applications/flutter/flutter_1.3.8/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true
